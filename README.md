@@ -1,5 +1,3 @@
-![Imagens exemplo do projeto](../flappyBird/imgs/flappy-bird1.PNG)
-
 # Bem-vindo(a)!
 
 Este projeto foi baseado no projeto de Web Moderno 2022 da Cod3r, aulas ministradas pelo Professor Leonardo Moura.
