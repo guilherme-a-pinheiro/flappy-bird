@@ -165,6 +165,12 @@ function FlappyBird() {
   barreiras.pares.forEach(par => areaDoJogo.appendChild(par.elemento))
 
   this.start = () => {
+    window.alert(`
+    Pronto para iniciar?
+    Pressione "OK"
+    Instruções: Pressione qualquer tecla ou botão esquerdo do mouse 
+    para que o pássaro voe. Evite colidir com os canos.
+    Boa sorte!`)
     // loop do jogo
     const temporizador = setInterval(() => {
       barreiras.animar()
