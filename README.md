@@ -1,6 +1,4 @@
-# flappy-bird
-
-![Imagens exemplo do projeto](.imgs/flappy-bird1)
+![Imagens exemplo do projeto](../flappyBird/imgs/flappy-bird1.PNG)
 
 # Bem-vindo(a)!
 
