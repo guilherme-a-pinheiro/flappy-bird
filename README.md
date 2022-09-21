@@ -11,3 +11,7 @@ O grande destaque para este projeto é a manipulação praticamente total do HTM
 # Instruções
 
 Você precisa pressionar "OK" para o primeiro alerta na tela. Depois disso, pressione qualquer tecla do teclado ou o botão esquerdo do mouse para que o pássaro voe, caso deixe de pressionar os botões citados, o pássaro perde altura do vôo. Evite colisões com os canos e chegue o mais longe que puder.
+
+# Atenção
+
+Para iniciar o projeto não é necessário a instalação adicional de nenhum outro item utilizando o NPM.
