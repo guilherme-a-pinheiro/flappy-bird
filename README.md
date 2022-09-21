@@ -1,6 +1,6 @@
 # Bem-vindo(a)!
 
-Este projeto foi baseado no projeto de Web Moderno 2022 da Cod3r, aulas ministradas pelo Professor Leonardo Moura.
+Este projeto foi baseado no curso de Web Moderno 2022 da Cod3r, aulas ministradas pelo Professor Leonardo Moura.
 
 Com o código baseado no que fora ensinado até o presente momento no curso, este projeto foi criado para demonstrar o que fora absorvido por mim, principalmente a parte dos estilos com CSS e a manipulação da DOM através do JavaScript.
 
